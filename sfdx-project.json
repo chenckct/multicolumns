@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "multicolumns",
+  "namespace": "",
+  "sfdcLoginUrl": "https://playful-koala-g3pfmy-dev-ed.trailblaze.my.salesforce.com",
+  "sourceApiVersion": "58.0"
+}
